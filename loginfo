@@ -124,7 +124,7 @@ body {
 
 <div class="row">
   <div class="leftcolumn">
-    <div class="card">
+    <div class="section card">
       <h2>TRENDING TOPICS</h2>
       <h4>FIBRE:</h4>
       <img src="C:\Users\Student.SOC-ITLAB3-29\web\fib.jpg" width="250" height="250"> <img src="C:\Users\Student.SOC-ITLAB3-29\web\fib 2.jpg" width="250" height="250"> <img src="C:\Users\Student.SOC-ITLAB3-29\web\fib 1.jpg" width="250" height="250"> 
